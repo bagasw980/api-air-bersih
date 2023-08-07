@@ -95,7 +95,8 @@
       "nama_pelanggan": "Budiyanto",
       "alamat": "Sukoharjo",
       "no_telepon": "6282220542202",
-      "layanan": 1
+      "layanan": 1,
+      "meter_awal": 0
     }
     ```
 
@@ -110,7 +111,8 @@
         "nama_pelanggan": "Budiyanto",
         "alamat": "Sukoharjo",
         "no_telepon": "6282220542202",
-        "layanan": 1
+        "layanan": 1,
+        "meter_awal": 0
       }
     }
     ```
@@ -138,7 +140,8 @@
       "nama_pelanggan": "Budiyanto",
       "alamat": "Sukoharjo",
       "no_telepon": "6282220542202",
-      "layanan": 1
+      "layanan": 1,
+      "meter_awal": 0
     }
     ```
 
@@ -153,7 +156,8 @@
         "nama_pelanggan": "Budiyanto",
         "alamat": "Sukoharjo",
         "no_telepon": "6282220542202",
-        "layanan": 1
+        "layanan": 1,
+        "meter_awal": 0
       }
     }
     ```
