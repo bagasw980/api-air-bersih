@@ -25,7 +25,8 @@
           "inputed_by": 1,
           "paymaster": null,
           "status": "Belum Bayar",
-          "tgl_bayar": null
+          "tgl_bayar": null,
+          "denda": null
         },
         {
           "id_pemakaian": "2",
@@ -37,7 +38,8 @@
           "inputed_by": 1,
           "paymaster": 2,
           "status": "Sudah Bayar",
-          "tgl_bayar": "2023-10-20"
+          "tgl_bayar": "2023-10-20",
+          "denda": null
         },
         {
           "id_pemakaian": "3",
@@ -49,7 +51,8 @@
           "inputed_by": 1,
           "paymaster": 2,
           "status": "Sudah Bayar",
-          "tgl_bayar": "2023-10-20"
+          "tgl_bayar": "2023-10-20",
+          "denda": null
         }
       ]
     }
@@ -89,7 +92,8 @@
           "inputed_by": 1,
           "paymaster": 2,
           "status": "Sudah Bayar",
-          "tgl_bayar": "2023-10-20"
+          "tgl_bayar": "2023-10-20",
+          "denda": null
         },
         {
           "id_pemakaian": "5",
@@ -101,7 +105,8 @@
           "inputed_by": 1,
           "paymaster": 2,
           "status": "Sudah Bayar",
-          "tgl_bayar": "2023-10-20"
+          "tgl_bayar": "2023-10-20",
+          "denda": null
         },
         {
           "id_pemakaian": "10",
@@ -113,7 +118,8 @@
           "inputed_by": 1,
           "paymaster": null,
           "status": "Belum Bayar",
-          "tgl_bayar": null
+          "tgl_bayar": null,
+          "denda": null
         }
       ]
     }
@@ -152,7 +158,8 @@
         "inputed_by": 1,
         "paymaster": 2,
         "status": "Sudah Bayar",
-        "tgl_bayar": "2023-10-20"
+        "tgl_bayar": "2023-10-20",
+        "denda": null
       }
     }
     ```
